@@ -1,4 +1,4 @@
--- enkelt jävla script för att se fordonets motorhälsa, motor temperatur samt att kunna checka hur mycket soppa man har : )
+-- enkelt script för att se fordonets motorhälsa, motor temperatur samt att kunna checka hur mycket soppa man har : )
 
 -- jeppe
 
